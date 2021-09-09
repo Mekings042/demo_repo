@@ -1,2 +1,2 @@
 # demo_repo
-Semestereo international
+Semestereo Tech solutions!
